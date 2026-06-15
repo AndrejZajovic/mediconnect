@@ -169,6 +169,4 @@ Andrej Zajović 22/096 FIST
 
 ---
 
-## 📄 Licenca
 
-MIT License — slobodno korišćenje za akademske i istraživačke svrhe.
